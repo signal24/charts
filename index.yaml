@@ -1,0 +1,15 @@
+apiVersion: v1
+entries:
+  config-controller:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2024-03-21T02:02:13.309623-04:00"
+    description: Simple Kubernetes controller to create key/value Secrets from encrypted
+      .env files stored in ConfigMaps
+    digest: abfe5bfe961d3ec85e274a16ba5fa546f4438ba4f8b434db0578674d9ff2ab95
+    name: config-controller
+    type: application
+    urls:
+    - https://github.com/signal24/charts/releases/download/config-controller-1.0.0/config-controller-1.0.0.tgz
+    version: 1.0.0
+generated: "2024-03-21T02:02:13.309631-04:00"
